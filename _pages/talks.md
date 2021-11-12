@@ -19,3 +19,5 @@ author_profile: true
 公开
 ======
 * 亚洲定价和收益管理高峰论坛 ([2019](https://www.iqpc.com/events-asiapricing/speakers/prof-dai-yao))
+* <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>，新加坡国立大学中国研究中心
+* <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>，新加坡国立大学中国研究中心
