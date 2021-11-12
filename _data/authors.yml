@@ -5,9 +5,10 @@ Name Name:
   uri         : "https://www.yodadai.com"
   email       : "DAI@yodadai.com"
   bio         : "DAI: Data, Analytics, and Intelligence"
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "dai.jpg"
   twitter     : "name"
   google_plus : "Name"
+  googlescholar : "https://scholar.google.com.sg/citations?user=maXjPQwAAAAJ"
 
 Name2 Name2:
   name        : "Name2 Name2"
