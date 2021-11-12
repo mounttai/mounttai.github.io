@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DAI: 数据 (Data), 分析 (Analytics), 智能 (Intelligence)"
+title                    : "DAI: 数据 (D), 分析 (A), 智能 (I)"
 title_separator          : "-"
 name                     : &name "DAI"
 description              : &description "personal description"
@@ -83,36 +83,37 @@ author:
   name             : "姚岱 (DAI)"
   avatar           : "files/dai.jpg"
   bio              : "计算机科学家，商业研究学者和解决方案提供商"
-  location         : "Hong Kong"
+  location         : "香港"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.sg/citations?user=maXjPQwAAAAJ"
+  email            : "DAI@yodadai.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.yodadai.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mounttai"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0852-0700"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
+  WeChat           :
   youtube          :
   wikipedia        :
 
