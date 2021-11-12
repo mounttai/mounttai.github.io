@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-姚岱  
+姚岱 (DAI)  
 副教授（市场营销）  
 管理及市场学系  
 工商管理学院  
