@@ -22,11 +22,13 @@ redirect_from:
 * 基于统计(S)，人工智能(A)，神经科学(N)，和经济学(E)等多学科知识融合 (SANE)
 * 采用数据驱动，分析内嵌，以及智能引导的方法 (DAI)
 
+
 教育背景
 ======
 * 管理学博士(市场营销)，<a href="https://www.insead.edu/" target="_blank">欧洲工商管理学院(INSEAD)</a>，2014
 * 运营管理研究硕士, <a href="https://business.smu.edu.sg/" target="_blank">新加坡管理大学(SMU)</a>, 2009
 * 计算机科学与技术学士, <a href="https://www.cs.tsinghua.edu.cn/" target="_blank">清华大学(THU)</a>, 2006
+
 
 商业案例
 ======
@@ -34,10 +36,12 @@ redirect_from:
 * 大宇无限: 向全球新兴市场扬帆起航. <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing</a>
 * Influencer Marketing: The Exploration of Mobiuspace in Latin American Short Video Markets
 
+
 观点
 ======
 * <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>
 * <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>
+
 
 链接
 ======
