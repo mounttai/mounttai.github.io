@@ -9,4 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="files/dai.pdf" width="800" height="1000" type="application/pdf"></object>
+
+<!--
+
 <object data="{{ site.url }}{{ site.baseurl }}/files/dai.pdf" width="800" height="1000" type="application/pdf"></object>
+
+-->
