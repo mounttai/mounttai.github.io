@@ -11,7 +11,7 @@ redirect_from:
 
 *under construction*
 
-<embed src="files/dai.pdf" width="100%" height="745px" />
+<embed src="files/dai_cv.pdf" width="100%" height="745px" />
 
 <!--
 
@@ -19,6 +19,6 @@ redirect_from:
 
 <object data="files/dai.pdf" width="800" height="1000" type="application/pdf"></object>
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/dai.pdf" width="800" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/dai_cv.pdf" width="%100" height="1000" type="application/pdf"></object>
 
 -->
