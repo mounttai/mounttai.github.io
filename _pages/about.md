@@ -14,7 +14,7 @@ redirect_from:
 工商管理学院  
 香港理工大学
 
-[<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">我在理工大的主页</a>]
+[<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">理工大的个人主页</a>]
 
 研究和实践的兴趣与专长
 ======
