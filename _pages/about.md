@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Dai Yao (姚岱) \s\s
-Associate Professor of Marketing \s\s
-Department of Management and Marketing \s\s
-Faculty of Business \s\s
-The Hong Kong Polytechnic University
+姚岱  
+副教授（市场营销）  
+管理及市场学系  
+工商管理学院  
+香港理工大学
 
 [<a href="files/dai_cv.pdf" target="_blank">Curriculum Vitae (.pdf)</a>]
 
