@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-学术界
+学界
 ======
 * 详情见简历
 
