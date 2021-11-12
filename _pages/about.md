@@ -17,11 +17,11 @@ redirect_from:
 
 [<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">理工大的个人主页</a>]
 
-研究和实践的兴趣与专长
+研究和实践(兴趣与专长)
 ======
 为各类商业问题开发，应用，并孵化如下全方位解决方案:
 * 基于统计(S)，人工智能(A)，神经科学(N)，和经济学(E)等多学科知识融合 (SANE)
-* 采用数据驱动，分析内嵌，以及智能引导的方法 (DAI)
+* 采用数据驱动(D)，分析内嵌(A)，以及智能引导(I)的方法 (DAI)
 
 
 教育背景
