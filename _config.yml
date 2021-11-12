@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "DAI: 数据 (Data), 分析 (Analytics), 智能 (Intelligence)"
 title_separator          : "-"
-name                     : &name "姚岱"
+name                     : &name "DAI"
 description              : &description "personal description"
 url                      : https://mounttai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "姚岱"
+  name             : "姚岱 (DAI)"
   avatar           : "files/dai.jpg"
   bio              : "计算机科学家，商业研究学者和解决方案提供商"
   location         : "Hong Kong"
