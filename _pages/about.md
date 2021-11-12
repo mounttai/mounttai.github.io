@@ -44,8 +44,3 @@ redirect_from:
 * <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>
 * <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>
 
-
-链接
-======
-* <a href="https://www.yunlyzer.com">云来泽(YUNlyzer.com)，一个DAI平台和商业化载体</a> (在建)
-
