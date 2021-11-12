@@ -32,7 +32,7 @@ redirect_from:
 
 商业案例
 ======
-* 知识付费经济中的有料道. <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Ivey Publishing</a>
+* 有料道在知识付费经济模式下的抉择. <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Ivey Publishing</a>
 * 大宇无限: 向全球新兴市场扬帆起航. <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing</a>
 * Influencer Marketing: The Exploration of Mobiuspace in Latin American Short Video Markets
 
