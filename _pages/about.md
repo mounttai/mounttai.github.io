@@ -32,14 +32,14 @@ Education:
 
 Cases:
 ======
-* Youliaodao in the Era of Paid Knowledge. Ivey Publishing
-* Mobiuspace: Venturing into Emerging Markets. Ivey Publishing
+* <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Youliaodao in the Era of Paid Knowledge. Ivey Publishing</a>
+* <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Mobiuspace: Venturing into Emerging Markets. Ivey Publishing</a>
 * Influencer Marketing: The Exploration of Mobiuspace in Latin American Short Video Markets
 
 Opinions / 观点: 
 ======
-* Live streaming industry and internet-based business model in China (Chinese Business Center at NUS, in Chinese)
-* Pay-what-you-want monetization in live streaming (Chinese Business Center at NUS, in Chinese)
+* <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>
+* <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>
 
 Links:
 ======
