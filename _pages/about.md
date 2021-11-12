@@ -15,7 +15,7 @@ redirect_from:
 工商管理学院  
 香港理工大学
 
-[<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">理工大的个人主页</a>]
+[<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">在理工大的个人主页</a>]
 
 研究和实践(兴趣与专长)
 ======
@@ -27,8 +27,8 @@ redirect_from:
 教育背景
 ======
 * 管理学博士(市场营销)，<a href="https://www.insead.edu/" target="_blank">欧洲工商管理学院(INSEAD)</a>，2014
-* 运营管理研究硕士, <a href="https://business.smu.edu.sg/" target="_blank">新加坡管理大学(SMU)</a>, 2009
-* 计算机科学与技术学士, <a href="https://www.cs.tsinghua.edu.cn/" target="_blank">清华大学(THU)</a>, 2006
+* 运营管理研究硕士，<a href="https://business.smu.edu.sg/" target="_blank">新加坡管理大学(SMU)</a>，2009
+* 计算机科学与技术学士，<a href="https://www.cs.tsinghua.edu.cn/" target="_blank">清华大学(THU)</a>，2006
 
 
 商业案例
