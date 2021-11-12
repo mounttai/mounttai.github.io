@@ -48,4 +48,3 @@ redirect_from:
 * <a href="https://www.yodadai.com" target="_blank">我的英文网站</a> (*需要额外工具访问*)
 * <a href="https://www.yunlyzer.com">云来泽，一个DAI平台和商业化载体</a>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=lvRWQUJqUc27efozLR1X8IT7J-rG9ZDMflPoj3SMr-I&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
