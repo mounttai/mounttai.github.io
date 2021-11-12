@@ -18,7 +18,7 @@ redirect_from:
 
 [<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">在理工大的个人主页</a>] $\cdot$ [<a href="https://www.yodadai.com" target="_blank">我的个人国际站</a>]
 
-研究和实践(兴趣与专长)
+研究和实践
 ======
 为各类商业问题开发，应用，并孵化如下全方位解决方案:
 * SANE: 基于统计(S)，人工智能(A)，神经科学(N)，和经济学(E)等多学科知识融合

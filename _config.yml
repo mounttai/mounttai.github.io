@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com.sg/citations?user=maXjPQwAAAAJ"
   email            : "DAI@yodadai.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.yunlyzer.com"
+  uri              : "https://www.yodadai.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -113,7 +113,6 @@ author:
   vine             :
   weibo            :
   xing             :
-  WeChat           : "WeChat: mounttai9"
   youtube          :
   wikipedia        :
 
@@ -179,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -219,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
