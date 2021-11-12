@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "DAI: 数据(Data)-分析(Analytics)-智能(Intelligence)"
+title: ""
+#title: "DAI: 数据(Data)-分析(Analytics)-智能(Intelligence)"
 excerpt: "关于我"
 author_profile: true
 redirect_from: 
