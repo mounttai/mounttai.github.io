@@ -9,5 +9,5 @@ main:
   - title: "教书"
     url: /teaching/    
     
-  - title: "简历"
-    url: /cv/
+#  - title: "简历"
+#    url: /cv/
