@@ -84,7 +84,7 @@ author:
   avatar           : "dai.jpg"
   bio              : "计算机科学家，商业研究学者，以及相关解决方案提供商"
   location         : "香港"
-  employer         : "https://www.polyu.edu.hk/sc/"
+  employer         : #
   pubmed           : #
   googlescholar    : "https://scholar.google.com.sg/citations?user=maXjPQwAAAAJ"
   email            : "DAI@yodadai.com"

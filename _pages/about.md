@@ -18,13 +18,13 @@ redirect_from:
 
 研究和实践的兴趣与专长
 ======
-Development, Application, and Incubation (DAI) of Statistics, Artificial intelligence, Neuroscience, and Economics based (SANE) solutions for business problems, using a Data-driven, Analytics-rooted, and Intelligence-guided (DAI) approach
+开发(D)，应用(A)，并孵化(I, DAI)，基于统计(S)，人工智能(A)，神经科学(N)，和经济学(E)等多学科，并采用数据驱动(D)，分析内嵌(A)，以及智能引导(I, DAI)的方法，为各类商业问题服务的全方位(SANE)解决方案
 
 教育背景
 ======
-* PhD in Management (Marketing), INSEAD, 2014
-* MSc in Operations Management, Singapore Management University, 2009
-* B.Eng in Computer Science and Technology, Tsinghua University, 2006
+* 管理学博士(市场营销)，欧洲工商管理学院(INSEAD)，2014
+* 运营管理研究硕士, 新加坡管理大学(SMU), 2009
+* 计算机科学与技术学士, 清华大学(THU), 2006
 
 商业案例
 ======
