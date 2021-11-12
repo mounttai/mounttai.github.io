@@ -46,6 +46,6 @@ redirect_from:
 
 链接
 ======
-* <a href="https://www.yodadai.com" target="_blank">我的英文网站</a> (*需要额外工具访问*)
+* <a href="https://www.yodadai.com" target="_blank">我的个人国际站</a> (*需要额外工具访问*)
 * <a href="https://www.yunlyzer.com">云来泽，一个DAI平台和商业化载体</a>
 
