@@ -38,9 +38,3 @@ redirect_from:
 * 大宇无限：向全球新兴市场扬帆起航。 <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing</a>
 * Influencer Marketing: The Exploration of Mobiuspace in Latin American Short Video Markets
 
-
-观点
-======
-* <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>
-* <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>
-
