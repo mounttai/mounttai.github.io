@@ -11,11 +11,11 @@ author_profile: true
 
 业界
 ======
-* 共享经济，[Shine Wing International](https://www.shinewing.hk/cn/)，2021年12月 (待安排)
-* 消费者金融数据挖掘，[Visa Inc.](https://www.visa.com.sg/)，2019年2月
-* 互联网商业和数字营销，[6estates](https://www.6estates.com/)，2018年8月
-* 手机游戏和用户终生价值，[Bolegames](http://www.bolegames.com/)，2017年12月
-* 项目合作的讨论：[PP租车](https://www.crunchbase.com/organization/ppzuche-com), [Shopee](https://shopee.sg/), [糗事百科](http://www.qiushibaike.com/), [大宇无限](https://www.mobiuspace.com/), [汽车之家](https://www.autohome.com.cn/), [清华学堂在线](http://www.xuetangx.com/), [正保远程教育](http://ir.cdeledu.com/)，以及其他。
+* 共享经济，<a href="https://www.shinewing.hk/cn/" target="_blank">Shine Wing International</a>，2021年12月 (待安排)
+* 消费者金融数据挖掘，<a href="https://www.visa.com.sg/" target="_blank">Visa Inc.</a>，2019年2月
+* 互联网商业和数字营销，<a href="https://www.6estates.com/" target="_blank">6estates</a>，2018年8月
+* 手机游戏和用户终生价值，<a href="http://www.bolegames.com/" target="_blank">Bolegames</a>，2017年12月
+* 项目合作的讨论：<a href="https://www.crunchbase.com/organization/ppzuche-com" target="_blank">PP租车</a>, <a href="https://shopee.sg/" target="_blank">Shopee</a>, <a href="http://www.qiushibaike.com/" target="_blank">糗事百科</a>, <a href="https://www.mobiuspace.com/" target="_blank">大宇无限</a>, <a href="https://www.autohome.com.cn/" target="_blank">汽车之家</a>, <a href="http://www.xuetangx.com/" target="_blank">清华学堂在线</a>, <a href="http://ir.cdeledu.com/" target="_blank">正保远程教育</a>，以及其他。
 
 公开讲座
 ======
