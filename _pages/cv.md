@@ -11,7 +11,7 @@ redirect_from:
 
 *under construction*
 
-<embed src="/files/dai.pdf" width="100%" height="745px" />
+<embed src="{{ site.url }}{{ site.baseurl }}/files/dai.pdf" width="100%" height="745px" />
 
 <!--
 
