@@ -13,6 +13,8 @@ redirect_from:
 
 <a href="files/dai.pdf" class="image fit"><img src="images/marr_pic.jpg" width="800" height="1000" alt=""></a>
 
+<embed src="/file/dai.pdf" width="100%" height="745px" />
+
 <!--
 
 <object data="files/dai.pdf" width="800" height="1000" type="application/pdf"></object>
