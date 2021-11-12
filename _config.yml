@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DAI: 数据 (D), 分析 (A), 智能 (I)"
+title                    : "Dai YAO"
 title_separator          : "-"
 name                     : &name "DAI"
 description              : &description "personal description"
