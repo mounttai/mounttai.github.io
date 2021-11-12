@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dai YAO"
+title                    : "DAI"
 title_separator          : "-"
 name                     : &name "DAI"
 description              : &description "personal description"
