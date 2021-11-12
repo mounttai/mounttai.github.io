@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Dai Yao (姚岱)
-======
-Associate Professor of Marketing
+Dai Yao (姚岱) \
 
-Department of Management and Marketing
+Associate Professor of Marketing \
 
-Faculty of Business
+Department of Management and Marketing \
 
-The Hong Kong Polytechnic University
+Faculty of Business \
 
-[[Curriculum Vitae (.pdf)](files/dai_cv.pdf)]
+The Hong Kong Polytechnic University \
+
+[<a href="files/dai_cv.pdf" target="_blank">Curriculum Vitae (.pdf)</a>]
 
 Research and practice interests/expertise:
 ======
@@ -26,31 +26,25 @@ Development, Application, and Incubation (DAI) of Statistics, Artificial intelli
 
 Education:
 ======
-PhD in Management (Marketing), INSEAD, 2014
-
-MSc in Operations Management, Singapore Management University, 2009
-
-B.Eng in Computer Science and Technology, Tsinghua University, 2006
+* PhD in Management (Marketing), INSEAD, 2014
+* MSc in Operations Management, Singapore Management University, 2009
+* B.Eng in Computer Science and Technology, Tsinghua University, 2006
 
 Cases:
 ======
-
-Youliaodao in the Era of Paid Knowledge. Ivey Publishing
-
-Mobiuspace: Venturing into Emerging Markets. Ivey Publishing
-
-Influencer Marketing: The Exploration of Mobiuspace in Latin American Short Video Markets
+* Youliaodao in the Era of Paid Knowledge. Ivey Publishing
+* Mobiuspace: Venturing into Emerging Markets. Ivey Publishing
+* Influencer Marketing: The Exploration of Mobiuspace in Latin American Short Video Markets
 
 Opinions / 观点: 
 ======
-Live streaming industry and internet-based business model in China (Chinese Business Center at NUS, in Chinese)
-
-Pay-what-you-want monetization in live streaming (Chinese Business Center at NUS, in Chinese)
+* Live streaming industry and internet-based business model in China (Chinese Business Center at NUS, in Chinese)
+* Pay-what-you-want monetization in live streaming (Chinese Business Center at NUS, in Chinese)
 
 Links:
 ======
-[My PolyU Faculty Page](https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/)
+* <a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">我在香港理工大学的主页</a>
 
-[My Site in Chinese / 中文个人主页 (under construction)](https://www.yodayao.com)
+* <a href="https://www.yodadai.com" target="_blank">我的英文网站</a> (**需要额外工具访问**)
 
-[A DAI Platform (under construction, for now directing to this page)](https://www.yunlyzer.com)
+* <a href="https://www.yunlyzer.com">云来泽，一个DAI平台和商业化载体</a>
