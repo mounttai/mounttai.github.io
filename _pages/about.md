@@ -24,9 +24,9 @@ redirect_from:
 
 教育背景
 ======
-* 管理学博士(市场营销)，欧洲工商管理学院(INSEAD)，2014
-* 运营管理研究硕士, 新加坡管理大学(SMU), 2009
-* 计算机科学与技术学士, 清华大学(THU), 2006
+* 管理学博士(市场营销)，<a href="https://www.insead.edu/" target="_blank">欧洲工商管理学院(INSEAD)</a>，2014
+* 运营管理研究硕士, <a href="https://business.smu.edu.sg/" target="_blank">新加坡管理大学(SMU)</a>, 2009
+* 计算机科学与技术学士, <a href="https://www.cs.tsinghua.edu.cn/" target="_blank">清华大学(THU)</a>, 2006
 
 商业案例
 ======
