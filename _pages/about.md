@@ -30,8 +30,8 @@ redirect_from:
 
 商业案例
 ======
-* <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Youliaodao in the Era of Paid Knowledge. Ivey Publishing</a>
-* <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Mobiuspace: Venturing into Emerging Markets. Ivey Publishing</a>
+* <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">知识付费经济中的有料道. Ivey Publishing</a>
+* <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">大宇无限: 向全球新兴市场扬帆起航. Ivey Publishing</a>
 * Influencer Marketing: The Exploration of Mobiuspace in Latin American Short Video Markets
 
 观点
