@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "DAI"
 title_separator          : "-"
-name                     : &name "DAI"
+name                     : &name "DAI YAO"
 description              : &description "personal description"
 url                      : https://mounttai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
