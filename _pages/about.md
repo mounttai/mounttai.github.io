@@ -14,7 +14,7 @@ redirect_from:
 工商管理学院  
 香港理工大学
 
-[<a href="files/dai_cv.pdf" target="_blank">Curriculum Vitae (.pdf)</a>]
+[<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>]
 
 研究和实践的兴趣与专长
 ======
