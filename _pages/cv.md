@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*under construction*
-
-<embed src="{{ base_path }}/files/dai_cv.pdf" width="100%" height="745px" />
+<embed src="{{ base_path }}/files/dai_cv.pdf" width="100%" height="100%" />
 
 <!--
 
