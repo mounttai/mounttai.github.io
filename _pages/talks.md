@@ -7,7 +7,7 @@ author_profile: true
 
 学界
 ======
-* 详情见简历
+* 详情见<a href="files/dai_cv.pdf" target="_blank">简历</a>
 
 业界
 ======
