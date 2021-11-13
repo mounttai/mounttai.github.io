@@ -19,6 +19,6 @@ author_profile: true
 
 公开讲座
 ======
-* <a href="https://www.iqpc.com/events-asiapricing/speakers/prof-dai-yao" target="_blank">亚洲定价和收益管理高峰论坛</a> (2019)
+* <a href="https://www.iqpc.com/events-asiapricing/speakers/prof-dai-yao" target="_blank">亚洲定价和收益管理高峰论坛</a>，<a href="https://www.iqpc.com/" target="_blank">国际质量和生产效率中心</a> (2019)
 * <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>，新加坡国立大学中国研究中心 (2018)
 * <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>，新加坡国立大学中国研究中心 (2019)
