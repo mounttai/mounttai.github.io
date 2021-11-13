@@ -33,6 +33,9 @@ redirect_from:
 * 运营管理研究硕士，<a href="https://business.smu.edu.sg/" target="_blank">新加坡管理大学(SMU)</a>，2009
 * 计算机科学与技术学士，<a href="https://www.cs.tsinghua.edu.cn/" target="_blank">清华大学(THU)</a>，2006
 
+业界经历
+======
+* 众多高科技和咨询公司，以及创业，详情见<a href="{{ base_path }}/cv/" target="_blank">简历</a>
 
 商业案例
 ======
