@@ -5,7 +5,7 @@ permalink: /yunlyzer/
 author_profile: true
 ---
 
-<a href="https://www.yunlyzer.com">云来泽(YUNlyzer)</a>: 一个DAI平台和商业化载体 (在建)
+<a href="https://www.yunlyzer.com" target="_blank">云来泽(YUNlyzer)</a>: 一个DAI平台和商业化载体 (在建)
 
 {% include base_path %}
 
