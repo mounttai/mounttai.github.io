@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-简历 [点<a href="files/dai_csv.pdf" target="_blank">这里</a>直接打开]
+简历 [点<a href="files/dai_csv.pdf" target="_blank">这里</a>直接打开, .pdf]
 ======
 
 <embed src="{{ base_path }}/files/dai_cv.pdf" width="100%" height="100%" />
