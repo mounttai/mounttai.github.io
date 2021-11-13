@@ -35,7 +35,7 @@ redirect_from:
 
 业界经历
 ======
-* 众多高科技和咨询公司，以及创业，详情见<a href="{{ base_path }}/cv/" target="_blank">简历</a>
+* 众多高科技，咨询，投资公司，以及创业，详情见<a href="{{ base_path }}/cv/" target="_blank">简历</a>
 
 商业案例
 ======
