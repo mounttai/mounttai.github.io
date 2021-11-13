@@ -38,6 +38,9 @@
       {% if author.wechat %}
        <li><a href="{{ base_path }}/images/dai_wechat.png" target="_blank"><i class="fa fa-fw fa-wechat" aria-hidden="true"></i> WeChat</a></li>
      {% endif %}
+     {% if author.linkedin %}
+       <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+     {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fab fa fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -52,9 +55,6 @@
       {% endif %}
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}" target="_blank"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
-      {% endif %}
-      {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}" target="_blank"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
