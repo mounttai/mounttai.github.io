@@ -29,14 +29,14 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "个人网站" }}</a></li>
+        <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ default: "个人网站" | site.data.ui-text[site.locale].website_label }}</a></li>
       {% endif %}
       <!-- add wechat into sidebar, use the G+ icon as the wechat icon is not availabe in Academicons (see assets/css/), 13 Nov 2021 -->
       {% if author.wechat %}
        <li><a href="{{ base_path }}/images/dai_wechat.png" target="_blank"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> 个人微信 </a></li>
      {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "个人邮箱" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ default: "个人邮箱" | site.data.ui-text[site.locale].email_label }}</a></li>
       {% endif %}
      {% if author.linkedin %}
        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
