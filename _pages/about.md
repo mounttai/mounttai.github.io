@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 姚岱 (DAI)
 ======
 副教授（市场营销）  
@@ -16,7 +18,7 @@ redirect_from:
 工商管理学院  
 香港理工大学
 
-[<a href="files/dai_cv.pdf" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">在理工大的个人主页</a>] $\cdot$ [<a href="https://www.yodadai.com" target="_blank">我的个人国际站</a>]
+[<a href="{{ base_path }}/cv/" target="_blank">个人简历 (.pdf)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">在理工大的个人主页</a>] $\cdot$ [<a href="https://www.yodadai.com" target="_blank">我的个人国际站</a>]
 
 研究和实践
 ======
