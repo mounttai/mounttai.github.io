@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
+
 学界
 ======
-* 详情见<a href="files/dai_cv.pdf" target="_blank">简历</a>
+* 详情见<a href="{{ base_path }}/cv/" target="_blank">简历</a>
 
 业界
 ======
