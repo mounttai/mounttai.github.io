@@ -325,17 +325,3 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
-
-
-body{        
-  padding-top: 80px;
-}
-.container{
-  width: 100%;
-}
-.fixed-header{
-  top: 0;
-  width: 100%;
-  position: fixed; 
-  padding: 10px 0;
-}
