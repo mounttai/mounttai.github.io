@@ -43,7 +43,7 @@ author_profile: true
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
-其他 (决策偏差，预览设计，全渠道营销，网络演变，等等)
+其他 (全渠道营销，决策偏差，数字产品预览设计，网络演变，等等)
 ======
 * "人类判断的厚尾性：实证证据，以及对聚合估算和预测的意义，“ 管理科学 (Management Science，有条件接收)
 * ”店内拥挤程度和顾客购物行为，" 工作论文 (投稿中，2021)
