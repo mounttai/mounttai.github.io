@@ -36,10 +36,3 @@ redirect_from:
 业界经历
 ======
 * 众多境内外高科技，咨询，投资公司，以及创业，详情见<a href="{{ base_path }}/cv/" target="_blank">简历</a>
-
-商业案例
-======
-* 有料道：在知识付费经济模式下的艰难抉择。 <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Ivey Publishing</a>
-* 大宇无限：向全球新兴市场扬帆起航。 <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing</a>
-* 网红营销：大宇无限在拉美短视频市场上的探索
-
