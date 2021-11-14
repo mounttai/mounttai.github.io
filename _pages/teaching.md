@@ -21,7 +21,7 @@ author_profile: true
 ======
 * 特约讲座，网络直播，博士生，南洋理工大学，2022 (安排中)
 
-<hr>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 商业案例
 ======
