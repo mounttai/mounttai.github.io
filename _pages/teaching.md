@@ -20,3 +20,11 @@ author_profile: true
 其他
 ======
 * 特约讲座，网络直播，博士生，南洋理工大学，2022 (安排中)
+
+<hr>
+
+商业案例
+======
+* 有料道：在知识付费经济模式下的艰难抉择。 <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Ivey Publishing</a>
+* 大宇无限：向全球新兴市场扬帆起航。 <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing</a>
+* 网红营销：大宇无限在拉美短视频市场上的探索
