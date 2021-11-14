@@ -23,11 +23,12 @@ author_profile: true
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
-共享经济
+共享经济(物，知识，时间，钱，等等)
 ======
 * "关于共享市场中物主接受(租客请求)的一个动态模型，" 营销科学 (Marketing Science), 二轮备审
 * "潜在金钱收益引发了免费内容的生成，" 工作论文 (投稿中, 2021)
 * "共享市场中的多步匹配问题，" 工作论文 (待投稿)
+* "高不确定性反馈在众包中的作用，" 工作论文 (待投稿)
 * "单个物品收益管理问题，" 进行中
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
