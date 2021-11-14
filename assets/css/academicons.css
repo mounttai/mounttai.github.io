@@ -327,28 +327,22 @@
 }
 
 
-/* Enable fixed header */
-
-/* Style the header */
-.header {
-  padding: 10px 16px;
-  background: #555;
-  color: #f1f1f1;
+/* Set fixed header */
+body{        
+  padding-top: 80px;
+  /* padding-bottom: 40px; */
 }
-
-/* Page content */
-.content {
-  padding: 16px;
+.container{
+  width: 100%;
+  margin: 0 auto; /* Center the DIV horizontally */
 }
-
-/* The sticky class is added to the header with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
+.fixed-header{
+  width: 100%;
+  position: fixed;        
+  background: #333;
+  padding: 10px 0;
+  color: #fff;
+}
+.fixed-header{
   top: 0;
-  width: 100%
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 102px;
 }
