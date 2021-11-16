@@ -20,7 +20,7 @@ redirect_from:
 
 [<a href="{{ base_path }}/cv/" target="_blank">个人简历 (CV)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">在港理工的个人主页</a>]
 
-<b><em>我接受各类来自学校或公司的邀请，举办关于数字经济（比如网络直播，元宇宙，共享经济等），全渠道营销，以及营销技术等相关的讲座或课程。请根据您的需求看我的<a href="{{ base_path }}/research/" target="_blank">研究方向</a>，<a href="{{ base_path }}/teaching/" target="_blank">教学经历</a>，以及<a href="{{ base_path }}/talks/" target="_blank">在学界和业界的讲座经历</a>，并通过<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>或<a href="mailto:DAI@yodadai.com" target="_blank">邮件</a>。</em></b>
+<b><em>我接受各类来自学校或公司的邀请，举办关于数字经济（比如网络直播，元宇宙，共享经济等），全渠道营销，以及营销技术等相关的讲座或课程。请根据您的需求看我的<a href="{{ base_path }}/research/" target="_blank">研究方向</a>，<a href="{{ base_path }}/teaching/" target="_blank">教学经历</a>，以及<a href="{{ base_path }}/talks/" target="_blank">在学界和业界的讲座经历</a>，并通过<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>或<a href="mailto:DAI@yodadai.com" target="_blank">邮件</a>联络。</em></b>
 
 
 研究及实践
