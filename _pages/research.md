@@ -23,7 +23,7 @@ author_profile: true
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
-共享经济(物品，知识，时间，金钱，等等)
+共享经济 (物品，知识，时间，金钱，等等)
 ======
 * "关于共享市场中物主接受(租客请求)的一个动态模型，" 营销科学 (Marketing Science), 二轮备审
 * "潜在金钱收益引发了免费内容的生成：来自问答平台的证实，" 工作论文 (投稿中, 2021)
