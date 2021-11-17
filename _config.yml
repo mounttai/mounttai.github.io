@@ -90,7 +90,7 @@ author:
   email            : "DAI@yodadai.com"
   wechat           : "mounttai9"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.yodadai.com"
+  uri              : # "https://www.yodadai.com"
   bitbucket        :
   codepen          :
   dribbble         :
