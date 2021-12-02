@@ -15,7 +15,7 @@ author_profile: true
 
 业界
 ======
-* 共享经济，<a href="https://www.shinewing.hk/cn/" target="_blank">Shine Wing International</a>，2021年12月 (安排中)
+* 共享经济，<a href="https://www.shinewing.hk/cn/" target="_blank">Shine Wing International</a>，2021年12月 (<a href="https://github.com/mounttai/SW-Sharing" target="_blank">Git reposistory</a>)
 * 消费者金融数据挖掘，<a href="https://www.visa.com.sg/" target="_blank">Visa Inc.</a>，2019年2月
 * 互联网商业和数字营销，<a href="https://www.6estates.com/" target="_blank">6estates</a>，2018年8月
 * 手机游戏和用户终生价值，<a href="http://www.bolegames.com/" target="_blank">Bolegames</a>，2017年12月
