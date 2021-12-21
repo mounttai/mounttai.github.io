@@ -10,7 +10,6 @@ author_profile: true
 
 网站: <a href="https://www.gba-martech.com" target="_blank">https://www.gba-martech.com</a>
 
-
 使命
 * 帮助区域内年轻学者生存成长
     * 内部线上线下讲座
