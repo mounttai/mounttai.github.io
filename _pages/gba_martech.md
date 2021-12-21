@@ -22,7 +22,8 @@ https://www.gba-martech.com
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 工作事项:
-* 拉微信群，群名：大湾区营销科技论坛(GBA-MarTech)
+* 已注册网站，暂未启用：https://www.gba-martech.com
+* 已拉微信群，群名：大湾区营销科技论坛(GBA-MarTech)
 * 用WordPress简单搭个网站（@王为，@林䶮）
 * 设置微信公众号
 * 注册合法机构
