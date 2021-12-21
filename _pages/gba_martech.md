@@ -19,6 +19,16 @@ https://www.gba-martech.com
 
 2021.12.20
 
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+
+工作事项:
+* 拉微信群，群名：大湾区营销科技论坛(GBA-MarTech)
+* 用WordPress简单搭个网站（@王为，@林䶮）
+* 设置微信公众号
+* 注册合法机构
+* 联络业界合作伙伴，以及咨询委员会成员
+* 预计在2022年2月份左右正式成立
+
 {% include base_path %}
 
 <!-- below includes the original papers -->
