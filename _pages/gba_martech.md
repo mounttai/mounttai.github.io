@@ -23,7 +23,6 @@ https://www.gba-martech.com
 工作事项:
 * 已注册网站，暂未启用：https://www.gba-martech.com
 * 已拉微信群，群名：大湾区营销科技论坛(GBA-MarTech)
-* 用WordPress简单搭个网站（@王为，@林䶮）
 * 设置微信公众号
 * 注册合法机构
 * 联络业界合作伙伴，以及咨询委员会成员
