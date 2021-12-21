@@ -8,7 +8,7 @@ author_profile: true
 大湾区营销科技论坛 (Great Bay Area MarTech Forum, or GBA-MarTech)
 ====
 
-https://www.gba-martech.com
+网站: <a href="https://www.gba-martech.com" target="_blank">https://www.gba-martech.com</a>
 
 使命
 * 帮助区域内年轻学者生存成长(内部线上讲座，以及邀请领域内著名学者开展线上讲座，共同讨论论文选题和论文修改)
