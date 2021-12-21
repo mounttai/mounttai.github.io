@@ -5,7 +5,7 @@ permalink: /yunlyzer/
 author_profile: true
 ---
 
-云来泽 (在建)
+云来泽 (YUNlyzer, 在建, under construction)
 ====
 
 <a href="https://www.yunlyzer.com" target="_blank">云来泽(YUNlyzer)</a>，即<mark>云(YUN)</mark>和<mark>分析器(Analyzer)</mark>的合体。这个域名是<mark>三年前</mark>注册的，终于将开始慢慢启用。它下边将运营一个数据-分析-智能决策(<mark>DAI</mark>)平台，集成我过去十多年学术生涯近距离观察数十家公司多种商业模式的思考和发现，以及近二十余年应用统计学，计算机科学(人工智能)，神经科学(进行中)，和经济学的方法(<mark>SANE</mark>)进行科研和开发过程中的技术沉淀。它也将成为把各种相关技术商业化的主要载体，基于四大主要方向为各种商业问题提供相应解决方案。
