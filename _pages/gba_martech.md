@@ -10,6 +10,7 @@ author_profile: true
 
 网站: <a href="https://www.gba-martech.com" target="_blank">https://www.gba-martech.com</a>
 
+
 使命
 * 帮助区域内年轻学者生存成长
     * 内部线上线下讲座
@@ -30,7 +31,6 @@ author_profile: true
 * 注册合法机构(深港两地)
 * 联络业界合作伙伴，以及咨询委员会成员
 * 预计在2022年2月份左右正式成立
-
 
 {% include base_path %}
 
