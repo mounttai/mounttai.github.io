@@ -21,7 +21,7 @@ author_profile: true
 * 联合开发和维护与业界的关系，争取优质业界研究资源（主要是数据，也包括资金）
 * 联合推动研究成果的商业化
 
-Expected Founding Time: Feb 2022
+ETA: Feb 2022
 
 Mission
 * Help young scholars in the region to survice and develop, via
