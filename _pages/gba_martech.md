@@ -8,7 +8,9 @@ author_profile: true
 大湾区营销科技论坛 (Great Bay Area MarTech Forum, or GBA-MarTech)
 ====
 
-预计成立时间(Expected Founding Time): 2022年2月 (Feb 2022)
+预计成立时间: 2022年2月
+
+Expected Founding Time: Feb 2022
 
 网站: <a href="https://www.gba-martech.com" target="_blank">https://www.gba-martech.com</a>
 
