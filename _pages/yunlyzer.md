@@ -8,7 +8,7 @@ author_profile: true
 云来泽 (YUNlyzer)
 ====
 
-预计注册时间: 2022年2月
+预计成立时间: 2022年2月
 
 ETA: Feb 2022
 
