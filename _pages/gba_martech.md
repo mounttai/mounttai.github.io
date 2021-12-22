@@ -8,6 +8,8 @@ author_profile: true
 大湾区营销科技论坛 (Great Bay Area MarTech Forum, or GBA-MarTech)
 ====
 
+预计成立时间(Expected Founding Time): 2022年2月 (Feb 2022)
+
 网站: <a href="https://www.gba-martech.com" target="_blank">https://www.gba-martech.com</a>
 
 使命
@@ -19,6 +21,15 @@ author_profile: true
 * 联合开发和维护与业界的关系，争取优质业界研究资源（主要是数据，也包括资金）
 * 联合推动研究成果的商业化
 
+Mission
+* Help young scholars in the region to survice and development, via
+    * Active online and offline seminars
+    * Regular online and offline discussions on research topics and paper revisions
+    * Inviting established scholars in the field worldwide to join the seminars and discussions
+* Collaborate in funding opportunities from National Natural Science Foundation (NSF) of China, of Guangdong, and Hong Kong University Grants Committe (UGC)
+* Jointly develop and maintain industrial relationship, to acquire good resources including data and funding
+* Jointly push forward commercialization of good research
+
 2021.12.20
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
@@ -29,7 +40,6 @@ author_profile: true
 * 设置微信公众号
 * 注册合法机构(深港两地)
 * 联络业界合作伙伴，以及咨询委员会成员
-* 预计在2022年2月份左右正式成立
 
 {% include base_path %}
 
