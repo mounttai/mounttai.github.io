@@ -24,7 +24,7 @@ author_profile: true
 Expected Founding Time: Feb 2022
 
 Mission
-* Help young scholars in the region to survice and development, via
+* Help young scholars in the region to survice and develop, via
     * Active online and offline seminars
     * Regular online and offline discussions on research topics and paper revisions
     * Inviting established scholars in the field worldwide to join the seminars and discussions
