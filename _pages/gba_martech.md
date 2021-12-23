@@ -28,7 +28,7 @@ Mission
     * Active online and offline seminars
     * Regular online and offline discussions on research topics and paper revisions
     * Inviting established scholars in the field worldwide to join the seminars and discussions
-* Collaborate in seizing funding opportunities from National Natural Science Foundation (NSF) of China, of Guangdong Province, and Hong Kong University Grants Committe (UGC)
+* Collaborate in seizing funding opportunities from National Natural Science Foundation (NSF) of China and of Guangdong Province, and Hong Kong University Grants Committe (UGC)
 * Jointly develop and maintain industrial relationships, to acquire good resources there including data and funding
 * Jointly push forward commercialization of good research
 
