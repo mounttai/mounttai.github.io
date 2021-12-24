@@ -8,7 +8,7 @@ author_profile: true
 大湾区营销科技论坛 (Great Bay Area MarTech Forum, or GBA-MarTech)
 ====
 
-<a href="https://www.gba-martech.com" target="_blank">https://www.gba-martech.com</a>
+<a href="http://www.gba-martech.com" target="_blank">http://www.gba-martech.com</a>
 
 预计成立时间: 2022年2月
 
@@ -37,7 +37,7 @@ Mission
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 工作事项:
-* 已注册网站，暂未启用：https://www.gba-martech.com
+* 已注册网站，暂未启用：http://www.gba-martech.com
 * 已拉微信群，群名：大湾区营销科技论坛(GBA-MarTech)
 * 设置微信公众号
 * 注册合法机构(深港两地)
