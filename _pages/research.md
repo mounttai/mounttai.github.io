@@ -29,7 +29,7 @@ author_profile: true
 * "潜在金钱收益引发了免费内容的生成：来自问答平台的证实，" 管理科学 (Management Science, 2021), 一轮在审
 * "共享市场中的多步匹配问题，" 工作论文 (待投稿)
 * "高不确定性反馈和工作效率：来自众包平台的证实，" 工作论文 (待投稿)
-* "单个物品收益管理问题，" 进行中
+* "单个物品收益管理问题，" 进行中，目标：计量经济学杂志 (Econometrica)
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
