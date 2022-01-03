@@ -5,7 +5,7 @@ permalink: /gba_martech/
 author_profile: true
 ---
 
-大湾区营销科技论坛 (Great Bay Area MarTech Forum, or GBA-MarTech)
+大湾区营销科技论坛 (Greater Bay Area MarTech Forum, or GBA-MarTech)
 ====
 
 <a href="http://www.gba-martech.com" target="_blank">http://www.gba-martech.com</a>
