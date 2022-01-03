@@ -17,7 +17,7 @@ author_profile: true
 * "开心生钱：直播中的情绪和互动，" 营销研究期刊 (Journal of Marketing Research, 2021)
     * <a href="{{ base_path }}/files/JMR-58-3-417-438%20(LeadArticle).pdf" target="_blank">当期头文</a>
 * “在随心付定价模式下，更多观众会带来更多收入吗？来自一个直播平台的证实，” 营销科学 (Marketing Science, 2021)
-    * <a href="{{ base_path }}/files/MKSC.2021.1292-SSRN-TopTenDownloads-AllTimes.pdf" target="_blank">SSRN网站子类下载量前十论文列表(所有时间)</a>
+    * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516777" target="_blank">SSRN</a>, <a href="{{ base_path }}/files/MKSC.2021.1292-SSRN-TopTenDownloads-AllTimes.pdf" target="_blank">子类下载量前十论文列表(所有时间)</a>
 * "直播中观众互动的社会效应，" 工作论文 (投稿中)
 * "微笑生而不同：直播下杜兴微笑降低(而非提升)来自观众的外在奖励，" 营销科学 (Marketing Science), 拒稿重投
 * "关于直播中内容(情绪)管理的一个动态模型，" 进行中
