@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "姚岱 (DAI)"
+  name             : "姚岱 (YAO DAI)"
   avatar           : "dai_photo.png"
-  bio              : "计算机科学家，商业研究学者，以及解决方案提供方"
+  bio              : "计算机科学家 | 商业研究学者 | 解决方案提供方"
   location         : "粤港澳大湾区·香港"
   employer         : #
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=maXjPQwAAAAJ"
-  email            : "DAI@yodadai.com"
+  email            : "DAI@yaod.ai"
   wechat           : "mounttai9"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : # "https://www.yodadai.com"
