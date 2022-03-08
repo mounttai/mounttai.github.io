@@ -28,6 +28,7 @@ author_profile: true
 共享经济 (物品，知识，时间，金钱，等等)
 ======
 * "关于共享市场中物主接受(租客请求)的一个动态模型，" 营销科学 (Marketing Science, 2022), 接收
+    * <a href="https://ssrn.com/abstract=4052540" target="_blank">SSRN</a>, <a href="https://github.com/mounttai/OwnerAcceptance" target="_blank">Github Repo</a>
 * "潜在金钱收益引发了免费内容的生成：来自问答平台的证实，" 工作论文 (待投稿)
 * "共享市场中的多步匹配问题，" 工作论文 (待投稿)
 * "高不确定性反馈和工作效率：来自众包平台的证实，" 工作论文 (待投稿)
