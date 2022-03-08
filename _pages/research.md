@@ -15,7 +15,7 @@ author_profile: true
 网络直播
 ======
 * "开心生钱：直播中的情绪和互动，" 营销研究期刊 (Journal of Marketing Research, 2021)
-    * <a href="{{ base_path }}/files/JMR-58-3-417-438%20(LeadArticle).pdf" target="_blank">当期魁首</a>
+    * <a href="{{ base_path }}/files/JMR-58-3-417-438%20(LeadArticle).pdf" target="_blank">当期魁首 (Lead Article)</a>
 * “在随心付定价模式下，更多观众会带来更多收入吗？来自一个直播平台的证实，” 营销科学 (Marketing Science, 2021)
     * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516777" target="_blank">SSRN</a>, <a href="{{ base_path }}/files/MKSC.2021.1292-SSRN-TopTenDownloads-AllTimes.pdf" target="_blank">子类下载量历史前十</a>
 * "微笑生而不同：直播下杜兴微笑降低(而非提升)来自观众的外在奖励，" 营销科学 (Marketing Science), 拒稿重投
@@ -40,7 +40,7 @@ author_profile: true
 * “出租车司机对订单取消和乘客失约的反应：关于参照点依赖偏好的新证据，” 管理科学 (Management Science, 2022), 接收
 * "有种子用户的口碑营销活动中的溢出效应，" 营销科学 (Marketing Science, 2017)
 * "寻求沉默大多数的支持：潜水者对依赖用户生成内容的社区有用吗？" 营销科学学院期刊 (Journal of the Academy of Marketing Science, 2019)
-    * <a href="{{ base_path }}/files/JAMS.2019.s11747-018-00624-8%20(LeadArticle).pdf" target="_blank">当期魁首</a>
+    * <a href="{{ base_path }}/files/JAMS.2019.s11747-018-00624-8%20(LeadArticle).pdf" target="_blank">当期魁首 (Lead Article)</a>
 * "无妄之灾：在线社区中的前瞻性助推和用户参与，" 工作论文 (投稿中)
 * "用户学习驱动的多功能产品使用的实证模型，" 工作论文 (待投稿)
 * "关于服务使用，顾客满意度，以及顾客留存的一个动态模型，" 工作论文 (待投稿)
