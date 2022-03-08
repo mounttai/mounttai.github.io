@@ -40,6 +40,7 @@ author_profile: true
 * “出租车司机对订单取消和乘客失约的反应：关于参照点依赖偏好的新证据，” 管理科学 (Management Science, 2022), 接收
 * "有种子用户的口碑营销活动中的溢出效应，" 营销科学 (Marketing Science, 2017)
 * "寻求沉默大多数的支持：潜水者对依赖用户生成内容的社区有用吗？" 营销科学学院期刊 (Journal of the Academy of Marketing Science, 2019)
+    * <a href="{{ base_path }}/files/JAMS.2019.s11747-018-00624-8%20(LeadArticle).pdf" target="_blank">当期魁首</a>
 * "无妄之灾：在线社区中的前瞻性助推和用户参与，" 工作论文 (投稿中)
 * "用户学习驱动的多功能产品使用的实证模型，" 工作论文 (待投稿)
 * "关于服务使用，顾客满意度，以及顾客留存的一个动态模型，" 工作论文 (待投稿)
