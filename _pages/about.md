@@ -21,9 +21,9 @@ redirect_from:
 [<a href="{{ base_path }}/cv/">个人简历 (CV)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">港理工个人主页</a>]
 
 
-<b>我接收下边项目的博士后学生申请，详情请见链接</b>:
-    * <a href="http://www.polyu-startuppostdoc.hk/" target="_blank">PolyU GBA Startup Postdoc</a>
-    * <a href="https://note.youdao.com/s/3BZZYxyd" target="_blank">我的招聘</a>
+<b>我接收下边项目的博士后学生申请</b>，详情请见链接:
+* <a href="http://www.polyu-startuppostdoc.hk/" target="_blank">PolyU GBA Startup Postdoc</a>
+* <a href="https://note.youdao.com/s/3BZZYxyd" target="_blank">我的招聘</a>
 
 
 <b><em>我接受各类来自学校或公司的邀请，举办关于数字经济（比如网络直播，元宇宙，共享经济等），全渠道营销，以及营销技术等相关的讲座或课程。请根据您的需求查看我的<a href="{{ base_path }}/research/">研究方向</a>，<a href="{{ base_path }}/teaching/">教学经历</a>，以及<a href="{{ base_path }}/talks/">在学界和业界的讲座经历</a>，并通过<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>或<a href="mailto:DAI@yaod.ai">邮件</a>联络。</em></b>
