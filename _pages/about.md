@@ -24,8 +24,7 @@ redirect_from:
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 <em><b>我接收下边项目的博士后学生申请</b>，详情请见链接（截止日期：<b>2022年4月21号</b>）</em>:
-* <a href="http://www.polyu-startuppostdoc.hk/" target="_blank"><em>PolyU GBA Startup Postdoc</em></a>
-* <a href="https://note.youdao.com/s/3BZZYxyd" target="_blank"><em>我的招聘</em></a>, <a href="https://note.youdao.com/s/cXpMLsH3" target="_blank"><em>My intention to host</em></a>
+* <a href="http://www.polyu-startuppostdoc.hk/" target="_blank"><em>PolyU GBA Startup Postdoc</em></a>, <a href="https://note.youdao.com/s/3BZZYxyd" target="_blank"><em>我的招聘</em></a>, <a href="https://note.youdao.com/s/cXpMLsH3" target="_blank"><em>My intention to host</em></a>
 
 
 <hr style="border-top:dotted 2px;">
