@@ -29,9 +29,9 @@ redirect_from:
 
 <hr style="border-top:dotted 2px;">
 
-<em><b>我常年接收优秀本硕学生申请做研究助理。请感兴趣同学发简历以及任意一份之前的代码到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。</b></em> <em>(<b>注</b>: 只有我可能聘用的学生才会收到回复)</em>
+<em><b>我常年接收优秀本硕学生申请做研究助理。请感兴趣同学发简历以及任意一份之前的代码到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。</b></em> <em><b>(注: 只有我可能聘用的学生才会收到回复)</b></em>
 
-<em><b>I'm recruiting research assistants from time to time. Those who are interested could drop me an <a href="mailto:DAI@yaod.ai">email</a> (with your CV and a sample code attached) or chat with me directly via <a href="{{ base_path }}/images/dai_wechat.png" target="_blank">WeChat</a>.</b></em>  <em>(<b>NOTE</b>: Replies are sent only to those likely to be recruited)</em>
+<em><b>I'm recruiting research assistants from time to time. Those who are interested could drop me an <a href="mailto:DAI@yaod.ai">email</a> (with your CV and a sample code attached) or chat with me directly via <a href="{{ base_path }}/images/dai_wechat.png" target="_blank">WeChat</a>.</b></em>  <em><b>(NOTE: Replies are sent only to those likely to be recruited)</b></em>
 
 <hr style="border-top:dotted 2px;">
 
