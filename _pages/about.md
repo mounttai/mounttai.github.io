@@ -32,7 +32,7 @@ redirect_from:
 
 <em><b>我常年接收优秀本硕学生申请做研究助理。请感兴趣同学发简历以及任意一份之前的代码到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。</b></em>
 
-<em><b>I'm recruiting research assistants from time to time. Those who are interested could drop me an email (with your CV and a sample code attached) or chat with me directly via WeChat.</b></em>
+<em><b>I'm recruiting research assistants from time to time. Those who are interested could drop me an <a href="mailto:DAI@yaod.ai">email</a> (with your CV and a sample code attached) or chat with me directly via <a href="{{ base_path }}/images/dai_wechat.png" target="_blank">WeChat</a>.</b></em>
 <hr style="border-top:dotted 2px;">
 
 
