@@ -30,7 +30,9 @@ redirect_from:
 
 <hr style="border-top:dotted 2px;">
 
-<em><b>我常年接收优秀本硕学生申请做研究助理。请感兴趣同学发简历以及任意一份之前的代码到dai@yaod.ai，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。I'm constantly recruiting research assistants. Those who are interested could drop me an email (with your CV and a sample code attached) or chat with me directly via WeChat.</b></em>
+<em><b>我常年接收优秀本硕学生申请做研究助理。请感兴趣同学发简历以及任意一份之前的代码到dai@yaod.ai，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。</b></em>
+
+<em><b>I'm constantly recruiting research assistants. Those who are interested could drop me an email (with your CV and a sample code attached) or chat with me directly via WeChat.</b></em>
 <hr style="border-top:dotted 2px;">
 
 
