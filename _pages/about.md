@@ -53,8 +53,8 @@ redirect_from:
 ======
 * 管理学博士(市场营销)，<a href="https://www.insead.edu/" target="_blank">欧洲工商管理学院(INSEAD)</a>，2014
   * 博士资格考试前(2009-2011)在决策科学系
-  * **完成所有核心课程(即博士资格考试要求课程)**: 市场营销(Marketing)，决策科学(Decision Science)，运营管理(Operations Management)
-  * **有选择完成其他专业部分核心课程**: 金融(Finance)，战略(Strategy)，组织管理(Organizational Behavior)
+  * **完成博士资格考试要求课程**: 市场营销(Marketing)，决策科学(Decision Science)，运营管理(Operations Management)
+  * **有选择完成部分核心课程**: 金融(Finance)，战略(Strategy)，组织管理(Organizational Behavior)
 * 运营管理研究硕士，<a href="https://business.smu.edu.sg/" target="_blank">新加坡管理大学(SMU)</a>，2009
 * 计算机科学与技术学士，<a href="https://www.cs.tsinghua.edu.cn/" target="_blank">清华大学(THU)</a>，2006
 
