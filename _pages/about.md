@@ -18,7 +18,7 @@ redirect_from:
 工商管理学院  
 香港理工大学
 
-[<a href="{{ base_path }}/cv/">个人简历 (CV)</a>] $\cdot$ [<a href="https://mm.polyu.edu.hk/people/academic-staff/dr-dai-yao/" target="_blank">港理工个人主页</a>]
+[<a href="{{ base_path }}/cv/">个人简历 (CV)</a>] $\cdot$ [<a href="https://www.polyu.edu.hk/mm/people/academic-staff/dr-dai-yao/" target="_blank">港理工个人主页</a>]
 
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
