@@ -19,7 +19,7 @@ author_profile: true
 
 其他
 ======
-* 特约讲座，网络直播，博士生，南洋理工大学，2022 (安排中)
+* 特约讲座，网络直播，博士生，南洋理工大学，2022年4月
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
