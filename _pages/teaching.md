@@ -28,3 +28,4 @@ author_profile: true
 * 有料道：在知识付费经济模式下的艰难抉择。 <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Ivey Publishing</a>, <a href="https://hbsp.harvard.edu/product/W20307-PDF-ENG" target="_blank">Harvard Business Publishing</a>
 * 大宇无限：向全球新兴市场扬帆起航。 <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing</a>, <a href="https://hbsp.harvard.edu/product/W20341-PDF-ENG" target="_blank">Harvard Business Publishing</a>
 * 网红营销：大宇无限在拉美短视频市场上的探索
+* 乐摇摇的多元化：纵向整合还是横向扩张
