@@ -15,6 +15,7 @@ author_profile: true
 
 业界
 ======
+* 中关村论坛系列活动，<a href="/files/ZGC-Forum1.jpg" target="_blank">圆桌论坛一</a>，<a href="/files/ZGC-Forum2.jpg" target="_blank">圆桌论坛二</a>，2023年5月
 * 共享经济，<a href="https://www.shinewing.hk/cn/" target="_blank">Shine Wing International</a>，2021年12月 (<a href="https://github.com/mounttai/SW-Sharing" target="_blank">Git Repo</a>, <a href="https://github.com/mounttai/SW-Sharing/blob/main/SW-DaiYao-SE_20211202.pdf" target="_blank">Slides</a>)
 * 消费者金融数据挖掘，<a href="https://www.visa.com.sg/" target="_blank">Visa Inc.</a>，2019年2月
 * 互联网商业和数字营销，<a href="https://www.6estates.com/" target="_blank">6estates</a>，2018年8月
