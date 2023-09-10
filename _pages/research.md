@@ -18,8 +18,8 @@ author_profile: true
     * <a href="{{ base_path }}/files/JMR-58-3-417-438%20(LeadArticle).pdf" target="_blank">当期魁首 (Lead Article)</a>
 * “在随心付定价模式下，更多观众会带来更多收入吗？来自一个直播平台的证实，” 营销科学 (Marketing Science, 2021)
     * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516777" target="_blank">SSRN</a>, <a href="{{ base_path }}/files/MKSC.2021.1292-SSRN-TopTenDownloads-AllTimes.pdf" target="_blank">子类下载量历史前十</a>
+* "基于随心付定价的内容变现中的挤出效应：来自直播场景的证实，" 生产运作管理 (Production and Operations Management, 2024)
 * "微笑生而不同：直播下杜兴微笑降低(而非提升)来自观众的外在奖励，" 营销科学 (Marketing Science), 拒稿重投
-* "基于随心付定价的内容变现中的挤出效应：来自直播场景的证实，" 生产运作管理 (Production and Operations Management)，修改备审(三轮)
 * "关于直播中内容(情绪)管理的一个动态模型，" 进行中
 * “网红营销：人设管理与直播带货，” 进行中
 
