@@ -24,7 +24,7 @@ redirect_from:
 
 <b>目前招聘情况(持续更新)，欢迎联络：</b>
 
-* <font COLOR="#ff0000">PhD学生</font>(2024年秋季)，<a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/" target="_blank">Fellowship & Scholarship Schemes at PolyU</a>
+* <span style="color: red;">PhD学生</span>(2024年秋季)，<a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/" target="_blank">Fellowship & Scholarship Schemes at PolyU</a>
 * <font COLOR="#ff0000">博士后</font>。请感兴趣同学发简历以及任意一份之前的代码到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。 (<b>注</b>: 只有可能被聘用的学生才会收到邮件回复)
 * <font COLOR="#ff0000">研究助理(兼职或全职)</font>。请感兴趣同学发简历以及任意一份之前的代码到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。(<b>注</b>: 只有可能被聘用的学生才会收到邮件回复)
 
