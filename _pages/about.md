@@ -22,7 +22,7 @@ redirect_from:
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
-<b>目前招聘情况(持续更新)。请感兴趣同学发简历以及任意一份之前的代码到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。 (<b>注</b>: 只有可能被聘用的学生才会收到邮件回复)</b>
+<b>目前招聘情况(持续更新):</b>
 
 * <span style="color: red;">PhD学生</span>
   * <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/" target="_blank">Fellowship & Scholarship Schemes at PolyU</a>, 1 to 2 PhD students per year.
@@ -33,6 +33,10 @@ redirect_from:
 * <span style="color: red;">研究助理(兼职或全职)</span>
   * 2 full-time RAs, and multiple part-time RAs on ad hoc basis.
   * Ideally, you have received your bachelor from a <b>985 university</b> in Mainland China or reputable university overseas, with a <b>GPA over 3.6 (or above 90)</b>.
+
+请感兴趣同学发<b>简历，本科成绩单，和任意一份之前的代码</b>到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。
+* 只有可能被聘用的学生才会收到邮件回复
+* 三样材料不齐全的邮件不予回复
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
