@@ -24,7 +24,7 @@ redirect_from:
 
 <b>目前招聘情况(持续更新)。请感兴趣同学发简历以及任意一份之前的代码到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。 (<b>注</b>: 只有可能被聘用的学生才会收到邮件回复)</b>
 
-* <span style="color: red;">PhD学生</span>(2024年秋季)
+* <span style="color: red;">PhD学生</span>
   * <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/" target="_blank">Fellowship & Scholarship Schemes at PolyU</a>, 1 to 2 PhD students per year.
 * <span style="color: red;">博士后</span>
   * <a href="https://www.hkscholars.org/" target="_blank">Hong Kong Scholars (香江学者)</a>, 1 postdoc for 2024
