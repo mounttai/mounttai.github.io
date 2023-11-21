@@ -26,7 +26,7 @@ redirect_from:
 
 * <span style="color: red;">研究助理(兼职或全职)</span>
   * 2 full-time RAs, and multiple part-time RAs on ad hoc basis.
-  * Ideally, you have received your bachelor from a <b>985 university</b> in Mainland China or reputable university overseas, with a <b>GPA over 3.6 (or above 90)</b>.
+  * Ideally, you have received your bachelor from a <b>985 university</b> in Mainland China or reputable university overseas, with a <b>GPA over 3.7 (or above 90)</b>.
 * <span style="color: red;">PhD学生</span>
   * <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/" target="_blank">Fellowship & Scholarship Schemes at PolyU</a>, 1 to 2 PhD students per year.
 * <span style="color: red;">博士后</span>
