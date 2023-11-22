@@ -25,6 +25,8 @@ author_profile: true
 
 公开讲座
 ======
+* 数字世界中的情绪价值，<a href="https://www.polyu.edu.hk/mm/about-mm/news-and-events/news/2023/influencer-marketing-symposium/" target="_blank">Influencer Marketing Symposium</a>，香港理工大学亚洲品牌及市场学中心，2023年12月
+* 数字世界中的情绪价值，<a href="http://www.cduestc.cn" target="_blank">电子科技大学成都学院</a>，<a href="http://www.guoteng.com.cn" target="_blank">成都国腾实业集团</a>，2023年10月
 * 港大前沿 湾区创新，<a href="https://mp.weixin.qq.com/s/gC0YJSoKoFE_Hf41KY9lmA" target="_blank">数字文艺复兴——湾区文化产业创新论坛</a>，2023年9月
 * 中关村论坛系列活动，<a href="/files/ZGC-Forum1.jpg" target="_blank">圆桌论坛一</a>，<a href="/files/ZGC-Forum2.jpg" target="_blank">圆桌论坛二</a>，2023年5月
 * <a href="https://www.iqpc.com/events-asiapricing/speakers/prof-dai-yao" target="_blank">亚洲定价和收益管理高峰论坛</a>，<a href="https://www.iqpc.com/" target="_blank">国际质量和生产效率中心</a> (2019)
