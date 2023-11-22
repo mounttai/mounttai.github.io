@@ -48,15 +48,16 @@ redirect_from:
 研究及实践
 ======
 为各类商业问题开发，应用，并孵化相应解决方案:
-* SANE: 基于统计学(S)，人工智能(A)，神经科学(N)，和经济学(E)等多学科知识融合
-* DAI: 采用数据驱动(D)，分析内嵌(A)，以及智能引导(I)的方法
+* <b>SANE</b>: 基于统计学(S)，人工智能(A)，神经科学(N)，和经济学(E)等多学科知识融合
+* <b>DAI</b>: 采用数据驱动(D)，分析内嵌(A)，以及智能引导(I)的方法
+* <b>主题</b>：数字经济，平台经济，双边/多边市场，跨境贸易，环境社会及治理(ESG)
 
 
 教育背景
 ======
 * 管理学博士(市场营销)，<a href="https://www.insead.edu/" target="_blank">欧洲工商管理学院(INSEAD)</a>，2014
   * 博士资格考试前(2009-2011)在决策科学系
-  * **完成博士资格考试要求课程**: 市场营销(Marketing)，决策科学(Decision Science)，运营管理(Operations Management)
+  * **基本完成课程，达到博士资格考试要求**: 市场营销(Marketing)，决策科学(Decision Science)，运营管理(Operations Management)
   * **有选择完成部分核心课程**: 金融(Finance)，战略(Strategy)，组织管理(Organizational Behavior)
 * 运营管理研究硕士，<a href="https://business.smu.edu.sg/" target="_blank">新加坡管理大学(SMU)</a>，2009
 * 计算机科学与技术学士，<a href="https://www.cs.tsinghua.edu.cn/" target="_blank">清华大学(THU)</a>，2006
