@@ -20,7 +20,7 @@ author_profile: true
 
 其他
 ======
-* 特约讲座，平台经济(3小时)，博士生，康涅狄格大学，2024年(已安排)
+* 特约讲座，平台经济(2小时)，博士生，康涅狄格大学，2024年(已安排)
 * 特约讲座，网络直播(3小时)，硕士生，香港城市大学，2023年11月(已安排)
 * 暑假短课，机器学习赋能的商业智能(mle.bi, 15小时)，硕士生，厦门大学，2023年7月
 * 特约讲座，网络直播(2小时)，本科生，香港大学，2023年3月
@@ -30,7 +30,13 @@ author_profile: true
 
 商业案例
 ======
-* 有料道：在知识付费经济模式下的艰难抉择。 <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Ivey Publishing (9B20A031_P)</a>, <a href="https://hbsp.harvard.edu/product/W20307-PDF-ENG" target="_blank">Harvard Business Publishing (W20307-PDF-ENG)</a>
-* 大宇无限：向全球新兴市场扬帆起航。 <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing (9B20A040_P)</a>, <a href="https://hbsp.harvard.edu/product/W20341-PDF-ENG" target="_blank">Harvard Business Publishing (W20341-PDF-ENG)</a>
-* 乐摇摇的多元化：纵向整合还是横向扩张。<a href="https://www.iveypublishing.ca/s/product/leyaoyaos-diversification-vertical-or-horizontal/01t5c00000DMGhsAAH" target="_blank">Ivey Publishing (W28466)</a>, <a href="https://hbsp.harvard.edu/product/W28466-PDF-ENG" target="_blank">Harvard Business Publishing (W28466-PDF-ENG)</a>
+* 有料道：在知识付费经济模式下的艰难抉择
+  * <a href="https://www.iveypublishing.ca/s/product/youliaodao-in-the-era-of-knowledge-economy-go-big-or-go-home/01t5c00000Cwqp6AAB" target="_blank">Ivey Publishing (9B20A031_P)</a>
+  * <a href="https://hbsp.harvard.edu/product/W20307-PDF-ENG" target="_blank">Harvard Business Publishing (W20307-PDF-ENG)</a>
+* 大宇无限：向全球新兴市场扬帆起航
+  * <a href="https://www.iveypublishing.ca/s/product/mobiuspace-venturing-into-emerging-markets/01t5c00000CwqpTAAR" target="_blank">Ivey Publishing (9B20A040_P)</a>
+  * <a href="https://hbsp.harvard.edu/product/W20341-PDF-ENG" target="_blank">Harvard Business Publishing (W20341-PDF-ENG)</a>
+* 乐摇摇的多元化：纵向整合还是横向扩张
+  * <a href="https://www.iveypublishing.ca/s/product/leyaoyaos-diversification-vertical-or-horizontal/01t5c00000DMGhsAAH" target="_blank">Ivey Publishing (W28466)</a>
+  * <a href="https://hbsp.harvard.edu/product/W28466-PDF-ENG" target="_blank">Harvard Business Publishing (W28466-PDF-ENG)</a>
 * 网红营销：大宇无限在拉美短视频市场上的探索
