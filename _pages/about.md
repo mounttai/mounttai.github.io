@@ -20,6 +20,8 @@ redirect_from:
 
 [<a href="{{ base_path }}/cv/">个人简历 (CV)</a>] $\cdot$ [<a href="https://www.polyu.edu.hk/mm/people/academic-staff/dr-dai-yao/" target="_blank">港理工个人主页</a>]
 
+<!--
+
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 <b>目前招聘情况(持续更新):</b>
@@ -37,6 +39,8 @@ redirect_from:
 请感兴趣且符合条件的同学发<b>简历和任意一份之前的代码</b>到<a href="mailto:DAI@yaod.ai">邮件</a>，或直接加<a href="{{ base_path }}/images/dai_wechat.png" target="_blank">微信</a>联系。申请研究助理或博士，请同时附上<b>本科成绩单</b>。
 * 只有可能被聘用的学生才会收到邮件回复
 * 材料不齐全的邮件不予回复
+
+-->
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
