@@ -44,6 +44,6 @@ author_profile: true
 * 数字世界中的情绪价值，<a href="http://www.cduestc.cn" target="_blank">电子科技大学成都学院</a>，<a href="http://www.guoteng.com.cn" target="_blank">成都国腾实业集团</a>，2023年10月
 * 港大前沿 湾区创新，<a href="https://mp.weixin.qq.com/s/gC0YJSoKoFE_Hf41KY9lmA" target="_blank">数字文艺复兴——湾区文化产业创新论坛</a>，2023年9月
 * 中关村论坛系列活动，<a href="/files/ZGC-Forum1.jpg" target="_blank">圆桌论坛一</a>，<a href="/files/ZGC-Forum2.jpg" target="_blank">圆桌论坛二</a>，2023年5月
-* <a href="https://www.iqpc.com/events-asiapricing/speakers/prof-dai-yao" target="_blank">亚洲定价和收益管理高峰论坛</a>，<a href="https://www.iqpc.com/" target="_blank">国际质量和生产效率中心</a> (2019)
-* <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>，新加坡国立大学中国研究中心 (2019)
-* <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>，新加坡国立大学中国研究中心 (2018)
+* <a href="https://www.iqpc.com/events-asiapricing/speakers/prof-dai-yao" target="_blank">亚洲定价和收益管理高峰论坛</a>，<a href="https://www.iqpc.com/" target="_blank">国际质量和生产效率中心</a>, 2019年
+* <a href="https://mp.weixin.qq.com/s/CeVzqaE313HrE137n_xrMA" target="_blank">直播场景中的用户打赏及背后的商业逻辑</a>，新加坡国立大学中国研究中心，2019年
+* <a href="https://mp.weixin.qq.com/s/m7eWfp0U84S7CZg1QazknA" target="_blank">直播营销还能火多久——互联网商业模式分析</a>，新加坡国立大学中国研究中心，2018年
