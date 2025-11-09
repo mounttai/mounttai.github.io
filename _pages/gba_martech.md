@@ -10,7 +10,7 @@ author_profile: true
 
 <a href="http://www.gba-martech.com" target="_blank">http://www.gba-martech.com</a>
 
-预计成立时间: 2022年2月
+预计成立时间: 20XX年X月
 
 使命
 * 帮助区域内年轻学者生存成长
@@ -21,7 +21,7 @@ author_profile: true
 * 联合开发和维护与业界的关系，争取优质业界研究资源（主要是数据，也包括资金）
 * 联合推动研究成果的商业化
 
-ETA: Feb 2022
+ETA: XXX 20XX
 
 Mission
 * Help young scholars in the region to survive and thrive, via
